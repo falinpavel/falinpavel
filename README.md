@@ -1,26 +1,41 @@
-<p align="center">
-<a href="https://now-playing-66mfrri4j-falinpavel.vercel.app/now-playing?open">
-    <img src="https://now-playing-66mfrri4j-falinpavel.vercel.app/now-playing" width="512" height="128">
-</a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=falinpavel&count_private=true&show_icons=true&theme=buefy" />
-</p>
+<img width="100%" src="images/my_banner.png">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falinpavel&layout=compact&theme=buefy" />
-</p>
+### 👋 Привет!
+Меня зовут Павел</br>Работаю в IT с 2021 года на позиции QA Engineer</br>
+---
+### Дополнительное образование и пройденные курсы
 
+<table width="100%" border='0'>
+    <tr><td width="10%" valign="bottom"><img src="images/qa_guru_logo.svg"></td><td valign="middle">QA Guru</br>Автоматизация тестирования на Python</td></tr>
+    <tr><td width="10%" valign="bottom"><img src="images/stepik_logo.png"></td><td valign="middle">Stepik</br>Автоматизация тестирования с помощью Selenium и Python</br><a target="_blank" href="https://stepik.org/cert/2005306">Сертификат</a></td></tr>
+    <tr><td width="10%" valign="bottom"><img src="images/stepik_logo.png"></td><td valign="middle">Stepik</br>Программирование на Python</br><a target="_blank" href="https://stepik.org/cert/1935035">Сертификат</a></td></tr>
+    <tr><td width="10%" valign="bottom"><img src="images/stepik_logo.png"></td><td valign="middle">Stepik</br>Python: основы и применение</br><a target="_blank" href="https://stepik.org/cert/1988994">Сертификат</a></td></tr>
+</table>
 
-[![falinpavel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=falinpavel&count_private=true&show_icons=true&theme=buefy)](https://github.com/falinpavel)
-[![falinpavel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=falinpavel&layout=compact&theme=buefy)](https://github.com/falinpavel)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falinpavel&layout=compact&theme=buefy)](https://github.com/falinpavel)
+---
 
+### 🛠️ Навыки и используемые  инструменты
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+<img title="Python" src="images/python-original.svg" height="40" width="40"/> <img title="Pytest" src="images/pytest-original.svg" height="40" width="40"/> <img title="Jira" src="images/jira-original.svg" height="40" width="40"/> <img title="Allure Report" src="images/Allure_Report.png" height="40" width="40"/> <img title="Allure TestOps" src="images/AllureTestOps.png" height="40" width="40"/> <img title="GitHub" src="images/github-original.svg" height="40" width="40"/> <img title="Selenoid" src="images/selenoid.png" height="40" width="40"/> <img title="Selenium" src="images/selenium-original.svg" height="40" width="40"/> <img title="Selene" src="images/selene.png" height="40" width="40"/> <img title="Pycharm" src="images/pycharm.png" height="40" width="40"/> <img title="Telegram" src="images/tg.png" height="40" width="40"/> <img title="Linux" src="images/linux-original.svg" height="40" width="40"/> <img title="GitLab" src="images/gitlab-original.svg" height="40" width="40"/> <img title="Jenkins" src="images/jenkins-original.svg" height="40" width="40"/> <img title="Request Python" src="images/Requests_Python_Logo.png" height="40" width="40"/> <img title="Pydentic Python" src="images/pydantic.png" height="40" width="40"/> <img title="SQLAlchemy" src="images/sqlalchemy-original.svg" height="40" width="40"/> <img title="MySQL" src="images/mysql-original-wordmark.svg" height="40" width="40"/> <img title="PostgreSQL" src="images/postgresql-original-wordmark.svg" height="40" width="40"/> <img title="Figma" src="images/figma-original.svg" height="40" width="40"/> <img title="HTML5" src="images/html5-original.svg" height="40" width="40"/> <img title="CSS3" src="images/css3-original.svg" height="40" width="40"/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&redirect=true)
+---
 
-<!-- [<img align="right" width="350" height="auto" alt="if you see this, it means my metrics are not working" src="https://now-playing-66mfrri4j-falinpavel.vercel.app/now-playing">](https://now-playing-66mfrri4j-falinpavel.vercel.app/now-playing?open) -->
+### 📊 Статистика профиля Github
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=falinpavel&theme=radical)
+</br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falinpavel&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falinpavel&theme=radical)
+</br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=falinpavel&theme=radical)](https://git.io/streak-stats)
+
+---
+
+### 🚀 Примеры моих проектов по автоматизации тестирования на Python
+
+#### <a target="_blank" href="https://github.com/falinpavel/qa_guru_graduation_project_ui">Фреймворк для автоматизации тестирования web (UI) на примере веб-приложения "CM Store"</a>
+#### <a target="_blank" href="https://github.com/falinpavel/Petstore_api_test_framework">Фреймворк для автоматизации тестирования API Petstore.io</a>
+#### <a target="_blank" href="https://github.com/falinpavel/qa_guru_graduation_project_mobile]">Фреймворк для автоматизации тестирования мобильного приложения "Кинопоиск"</a>
+
+---
+
+### ✉️ Связаться со мной в Telegram: https://t.me/@falinP
