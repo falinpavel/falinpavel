@@ -9,8 +9,6 @@
 
 <table width="100%" border='0'>
     <tr><td width="15%" valign="bottom"><img src="images/qa_guru_logo.svg"></td><td valign="middle">QA GURU</br>Автоматизация тестирования на Python</br><a target="_blank" href="https://stepik.org/">Сертификат</a></td></tr>
-    <tr><td width="15%" valign="bottom"><img src="images/stepik_logo.png"></td><td valign="middle">Stepik</br>Автоматизация тестирования с помощью Selenium и Python</br><a target="_blank" href="https://stepik.org/">Сертификат</a></td></tr>
-    <tr><td width="15%" valign="bottom"><img src="images/stepik_logo.png"></td><td valign="middle">Stepik</br>Программирование на Python</br><a target="_blank" href="https://stepik.org/">Сертификат</a></td></tr>
     <tr><td width="15%" valign="bottom"><img src="images/stepik_logo.png"></td><td valign="middle">Stepik</br>Тестирование ПО с нуля. Теория + Практика. Уровень BASIC</br><a target="_blank" href="https://stepik.org/cert/2723793">Сертификат</a></td></tr>
     <tr><td width="15%" valign="bottom"><img src="images/stepik_logo.png"></td><td valign="middle">Stepik</br>Web-технологии</br><a target="_blank" href="https://stepik.org/cert/1937401">Сертификат</a></td></tr>
 </table>
