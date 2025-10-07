@@ -1,6 +1,8 @@
-<img width="100%" src="images/my_banner.png">
+<img width="100%" src="images/header.png">
 
+<div align="center">
 ### Работаю в IT с 2021 года на позиции QA Engineer
+</div>
 
 ---
 ### Дополнительное образование и пройденные курсы
@@ -31,7 +33,7 @@
     <img title="GitLab" src="images/gitlab-original.svg" height="50" width="50"/>
     <img title="Jenkins" src="images/jenkins-original.svg" height="50" width="50"/> 
     <img title="Request Python" src="images/Requests_Python_Logo.png" height="50" width="50"/>
-    <img title="Pydentic Python" src="images/pydantic.png" height="50" width="50"/>
+    <img title="Pydantic Python" src="images/pydantic.png" height="50" width="50"/>
     <img title="SQLAlchemy" src="images/sqlalchemy-original.svg" height="50" width="50"/>
     <img title="MySQL" src="images/mysql-original-wordmark.svg" height="50" width="50"/>
     <img title="PostgreSQL" src="images/postgresql-original-wordmark.svg" height="50" width="50"/>
