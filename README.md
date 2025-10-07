@@ -1,8 +1,6 @@
 <img width="100%" src="images/header.png">
 
-<div align="center">
-### Работаю в IT с 2021 года на позиции QA Engineer
-</div>
+## Fullstack QA Engineer (Python)
 
 ---
 ### Дополнительное образование и пройденные курсы
