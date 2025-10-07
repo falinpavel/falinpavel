@@ -1,11 +1,3 @@
-### - ⚡ Zdarova 👋  
-<p align='center'>
-  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-</p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/falinpavel/count.svg" />
-</p>
 <p align="center">
 <a href="https://now-playing-66mfrri4j-falinpavel.vercel.app/now-playing?open">
     <img src="https://now-playing-66mfrri4j-falinpavel.vercel.app/now-playing" width="512" height="128">
@@ -27,7 +19,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&redirect=true) -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&redirect=true)
 
 <!-- [<img align="right" width="350" height="auto" alt="if you see this, it means my metrics are not working" src="https://now-playing-66mfrri4j-falinpavel.vercel.app/now-playing">](https://now-playing-66mfrri4j-falinpavel.vercel.app/now-playing?open) -->
 
