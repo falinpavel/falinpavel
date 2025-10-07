@@ -55,9 +55,9 @@
 
 ### 🚀 Примеры моих проектов по автоматизации тестирования на Python
 
-#### <a target="_blank" href="https://github.com/falinpavel/qa_guru_graduation_project_ui">Фреймворк для автоматизации тестирования web (UI) на примере веб-приложения "CM Store"</a>
-#### <a target="_blank" href="https://github.com/falinpavel/Petstore_api_test_framework">Фреймворк для автоматизации тестирования API Petstore.io</a>
-#### <a target="_blank" href="https://github.com/falinpavel/qa_guru_graduation_project_mobile]">Фреймворк для автоматизации тестирования мобильного приложения "Кинопоиск"</a>
+#### <a target="_blank" href="https://github.com/falinpavel/qa_guru_graduation_project_ui">Фреймворк для автоматизации тестирования UI на примере веб-приложения "CM Store"</a>
+#### <a target="_blank" href="https://github.com/falinpavel/qa_guru_graduation_project_rest_api">Фреймворк для автоматизации тестирования REST API на примере api.sampleapis.com (fake bank)</a>
+#### <a target="_blank" href="https://github.com/falinpavel/qa_guru_graduation_project_mobile">Фреймворк для автоматизации тестирования MOBILE (Appium) "Кинопоиск"</a>
 
 ---
 
