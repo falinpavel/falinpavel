@@ -39,7 +39,6 @@
 <img title="HTML5" src="images/html5-original.svg" height="50" width="50"/>
 <img title="CSS3" src="images/css3-original.svg" height="50" width="50"/>
 </p>
----
 
 ### 📊 Статистика профиля Github
 
