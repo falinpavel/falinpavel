@@ -16,28 +16,28 @@
 
 ### 🛠️ Навыки и используемые  инструменты
 <p  align="center">
-<img title="Python" src="images/python-original.svg" height="50" width="50"/>
-<img title="Pytest" src="images/pytest-original.svg" height="50" width="50"/>
-<img title="Jira" src="images/jira-original.svg" height="50" width="50"/>
-<img title="Allure Report" src="images/Allure_Report.png" height="50" width="50"/>
-<img title="Allure TestOps" src="images/AllureTestOps.png" height="50" width="50"/>
-<img title="GitHub" src="images/github-original.svg" height="50" width="50"/>
-<img title="Selenoid" src="images/selenoid.png" height="50" width="50"/>
-<img title="Selenium" src="images/selenium-original.svg" height="50" width="50"/>
-<img title="Selene" src="images/selene.png" height="50" width="50"/>
-<img title="Pycharm" src="images/pycharm.png" height="50" width="50"/>
-<img title="Telegram" src="images/tg.png" height="50" width="50"/>
-<img title="Linux" src="images/linux-original.svg" height="50" width="50"/>
-<img title="GitLab" src="images/gitlab-original.svg" height="50" width="50"/>
-<img title="Jenkins" src="images/jenkins-original.svg" height="50" width="50"/> 
-<img title="Request Python" src="images/Requests_Python_Logo.png" height="50" width="50"/>
-<img title="Pydentic Python" src="images/pydantic.png" height="50" width="50"/>
-<img title="SQLAlchemy" src="images/sqlalchemy-original.svg" height="50" width="50"/>
-<img title="MySQL" src="images/mysql-original-wordmark.svg" height="50" width="50"/>
-<img title="PostgreSQL" src="images/postgresql-original-wordmark.svg" height="50" width="50"/>
-<img title="Figma" src="images/figma-original.svg" height="50" width="50"/>
-<img title="HTML5" src="images/html5-original.svg" height="50" width="50"/>
-<img title="CSS3" src="images/css3-original.svg" height="50" width="50"/>
+    <img title="Python" src="images/python-original.svg" height="50" width="50"/>
+    <img title="Pytest" src="images/pytest-original.svg" height="50" width="50"/>
+    <img title="Jira" src="images/jira-original.svg" height="50" width="50"/>
+    <img title="Allure Report" src="images/Allure_Report.png" height="50" width="50"/>
+    <img title="Allure TestOps" src="images/AllureTestOps.png" height="50" width="50"/>
+    <img title="GitHub" src="images/github-original.svg" height="50" width="50"/>
+    <img title="Selenoid" src="images/selenoid.png" height="50" width="50"/>
+    <img title="Selenium" src="images/selenium-original.svg" height="50" width="50"/>
+    <img title="Selene" src="images/selene.png" height="50" width="50"/>
+    <img title="Pycharm" src="images/pycharm.png" height="50" width="50"/>
+    <img title="Telegram" src="images/tg.png" height="50" width="50"/>
+    <img title="Linux" src="images/linux-original.svg" height="50" width="50"/>
+    <img title="GitLab" src="images/gitlab-original.svg" height="50" width="50"/>
+    <img title="Jenkins" src="images/jenkins-original.svg" height="50" width="50"/> 
+    <img title="Request Python" src="images/Requests_Python_Logo.png" height="50" width="50"/>
+    <img title="Pydentic Python" src="images/pydantic.png" height="50" width="50"/>
+    <img title="SQLAlchemy" src="images/sqlalchemy-original.svg" height="50" width="50"/>
+    <img title="MySQL" src="images/mysql-original-wordmark.svg" height="50" width="50"/>
+    <img title="PostgreSQL" src="images/postgresql-original-wordmark.svg" height="50" width="50"/>
+    <img title="Figma" src="images/figma-original.svg" height="50" width="50"/>
+    <img title="HTML5" src="images/html5-original.svg" height="50" width="50"/>
+    <img title="CSS3" src="images/css3-original.svg" height="50" width="50"/>
 </p>
 
 ### 📊 Статистика профиля Github
