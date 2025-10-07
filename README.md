@@ -1,12 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hi%20there!&fontAlignY=35&fontSize=60&desc=Wellcome%20to%20my%20GitHub&descAlignY=60&descSize=50&animation=twinkling&fontColor=E9E9E9F3&descAlign=60&fontAlign=25)
 
 <p align="center">
-  <img title="|Customized by Falin Pavel|" src="https://readme-typing-svg.herokuapp.com?color=30D5C8&font=Knewave&size=35&center=true&vCenter=true&lines=Falin+Pavel;Fullstack+QA+engineer">
+  <img title="|Customized by Falin Pavel|" src="https://readme-typing-svg.herokuapp.com?color=30D5C8&font=Knewave&size=38&center=true&vCenter=true&lines=Falin+Pavel;Fullstack+QA+Engineer">
 </p>
-
-:heavy_check_mark: *Я имею более 4 лет опыта в IT-индустрии в качестве **QA Engineer**. Имею активную позицию на всех этапах разработки программного обеспечения.*
-
-## Fullstack QA Engineer (Python)
 
 ---
 ### Дополнительное образование и пройденные курсы
