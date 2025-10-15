@@ -47,7 +47,6 @@
 </br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falinpavel&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falinpavel&theme=radical)
 </br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=falinpavel&theme=radical)](https://git.io/streak-stats)
 
 ---
 
